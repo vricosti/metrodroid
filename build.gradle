@@ -19,7 +19,7 @@ buildscript {
         build_version = '31.0.0'
         android_sdk_version = 31
         android_min_version = 16
-        android_gradle_version = '7.0.2'
+        android_gradle_version = '7.3.1'
         protobuf_version = '3.18.1'
         protobuf_gradle_version = '0.8.17'
     }
